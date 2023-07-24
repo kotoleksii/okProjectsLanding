@@ -1,0 +1,26 @@
+:root {
+    --bg-color: #ffffff;
+    --text-color: #000000;
+    --border-color: #000000;
+    --icons-color: #000000;
+    --title-color: #ffffff;
+    --button-bg-color: #ffffff;
+    --button-text-color: #000000;
+    --button-border-color: #000000;
+    --button-bg-hover-color: #000000;
+    --button-text-hover-color: #ffffff;
+    --button-border-hover-color: #ffffff;
+}
+
+body.dark {
+    --bg-color: #000000;
+    --text-color: #ffffff;
+    --border-color: #ffffff;
+    --icons-color: none;
+    --button-bg-color: #000000;
+    --button-text-color: #ffffff;
+    --button-border-color: #ffffff;
+    --button-bg-hover-color: #ffffff;
+    --button-text-hover-color: #000000;
+    --button-border-hover-color: #000000;
+}
